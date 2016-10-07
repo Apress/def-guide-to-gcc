@@ -1,0 +1,8 @@
+#!/bin/bash
+
+./fibonacci 1
+./fibonacci 3
+./fibonacci 5
+./fibonacci 7
+./fibonacci 9
+./fibonacci 11
